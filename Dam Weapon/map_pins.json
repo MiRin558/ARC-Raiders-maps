@@ -1,0 +1,240 @@
+{
+  "imgW": 1568,
+  "imgH": 858,
+  "items": [
+    {
+      "id": 1762598335436,
+      "title": "1",
+      "category": "",
+      "image": "https://i.imgur.com/6ASSah7.gif",
+      "note": "<span style='color:black'>フォルミカイ前哨基地建物内部<span style='color:red'>2階<br><b><span style='color:black'>付近に<span style='color:blue'>グレネードバッグ<span style='color:black'>,<span style='color:blue'>銃弾ケース<span style='color:black'>出る可能性あり",
+      "x": 647.375,
+      "y": 59.75
+    },
+    {
+      "id": 1762598361112,
+      "title": "2",
+      "category": "",
+      "image": "https://i.imgur.com/TD6yZin.png",
+      "note": "<span style='color:black'>フォルミカイ前哨基地建物内部",
+      "x": 649.5,
+      "y": 66.25
+    },
+    {
+      "id": 1762598264476,
+      "title": "3",
+      "category": "",
+      "image": "https://i.imgur.com/myHk2bG.jpeg",
+      "note": "<span style='color:black'>マップ端付近の草むらの中<br><b><span style='color:black'>付近に<span style='color:blue'>グレネードバッグ<span style='color:black'>出る可能性あり",
+      "x": 523,
+      "y": 89
+    },
+    {
+      "id": 1762604149807,
+      "title": "4",
+      "category": "",
+      "image": "https://i.imgur.com/X7cUOK0.png",
+      "note": "<span style='color:black'>南通信塔の緑の建物裏<br><b><span style='color:black'>付近に<span style='color:blue'>バスケット<span style='color:black'>,<span style='color:blue'>医療バッグ<span style='color:black'>出る可能性あり",
+      "x": 481.25,
+      "y": 168.5
+    },
+    {
+      "id": 1762604356880,
+      "title": "5",
+      "category": "",
+      "image": "https://i.imgur.com/AgfhwbV.png",
+      "note": "<span style='color:black'>東給水塔屋上<br><b><span style='color:red'>ジップライン必須",
+      "x": 395.25,
+      "y": 244.25
+    },
+    {
+      "id": 1762604393162,
+      "title": "6",
+      "category": "",
+      "image": "https://i.imgur.com/KXYnQW9.jpeg",
+      "note": "<span style='color:black'>南の沼の拠点建物内部",
+      "x": 278.0000000463342,
+      "y": 447.74999991620666
+    },
+    {
+      "id": 1762604430900,
+      "title": "7",
+      "category": "",
+      "image": "https://i.imgur.com/e2jcPwi.png",
+      "note": "<span style='color:black'>出口付近のパイプの上<br><b>付近にある昇降機の利用必須",
+      "x": 506,
+      "y": 420
+    },
+    {
+      "id": 1762604455156,
+      "title": "8",
+      "category": "",
+      "image": "https://i.imgur.com/Z6Pmwps.png",
+      "note": "<span style='color:black'>水処理管理センター建物内部<br><b><span style='color:black'>付近に<span style='color:blue'>銃弾ケース<span style='color:black'>,<span style='color:blue'>レイダーバッグ<span style='color:black'>出る可能性あり",
+      "x": 482.5,
+      "y": 454.25
+    },
+    {
+      "id": 1762604570048,
+      "title": "9",
+      "category": "",
+      "image": "https://i.imgur.com/x5W5KVg.png",
+      "note": "<span style='color:black'>放棄された車の荷台",
+      "x": 973,
+      "y": 176.75
+    },
+    {
+      "id": 1762604639695,
+      "title": "10",
+      "category": "",
+      "image": "https://i.imgur.com/Z1vaWrn.png",
+      "note": "<span style='color:black'>小川にある放棄された高台付近の通気口",
+      "x": 752.75,
+      "y": 321
+    },
+    {
+      "id": 1762604670546,
+      "title": "11",
+      "category": "",
+      "image": "https://i.imgur.com/y1Gps0o.png",
+      "note": "<span style='color:black'>浸水時の地下通路奥の左奥",
+      "x": 748,
+      "y": 363.75
+    },
+    {
+      "id": 1762604726057,
+      "title": "12",
+      "category": "",
+      "image": "https://i.imgur.com/kHGDrzY.png",
+      "note": "<span style='color:black'>研究管理センター内部<span style='color:red'>2階<br><b><span style='color:black'>建物内部にあるジップラインを途中で降り<span style='color:red'>左に曲がった奥",
+      "x": 711.5,
+      "y": 393
+    },
+    {
+      "id": 1762604860176,
+      "title": "13",
+      "category": "",
+      "image": "https://i.imgur.com/DouieBL.png",
+      "note": "<span style='color:black'>水門の橋の中腹部<br><b><span style='color:black'>管制塔側から数えて<span style='color:red'>2番目<br><b><span style='color:black'>付近の橋を下げる機械を<span style='color:red'>1回<span style='color:black'>操作する必要あり<br><b><span style='color:black'>付近に<span style='color:blue'>銃弾ケース<span style='color:black'>出る可能性あり",
+      "x": 728,
+      "y": 466.75
+    },
+    {
+      "id": 1762604988661,
+      "title": "14",
+      "category": "",
+      "image": "https://i.imgur.com/PRhvND9.png",
+      "note": "<span style='color:black'>沼地の主要施設の外の岩(?)裏",
+      "x": 579.75,
+      "y": 527.5
+    },
+    {
+      "id": 1762605050403,
+      "title": "15",
+      "category": "",
+      "image": "https://i.imgur.com/qhRtYM3.png",
+      "note": "<span style='color:black'>沼地の放棄された自動車を上った高台<br><b><span style='color:black'>付近に<span style='color:blue'>グレネードバッグ<span style='color:black'>出る可能性あり",
+      "x": 572,
+      "y": 575.25
+    },
+    {
+      "id": 1762605088560,
+      "title": "16",
+      "category": "",
+      "image": "https://i.imgur.com/Pe5E5YD.png",
+      "note": "<span style='color:black'>水門の橋の下<br><b><span style='color:black'>付近に<span style='color:blue'>グレネードバッグ<span style='color:black'>,<span style='color:blue'>バスケット<span style='color:black'>出る可能性あり",
+      "x": 741,
+      "y": 536.5
+    },
+    {
+      "id": 1762605119953,
+      "title": "17",
+      "category": "",
+      "image": "https://i.imgur.com/9iVav98.jpeg",
+      "note": "<span style='color:black'>水門の倒壊した橋の下",
+      "x": 754.75,
+      "y": 571.5
+    },
+    {
+      "id": 1762605149615,
+      "title": "18",
+      "category": "",
+      "image": "https://i.imgur.com/Aq1jsmo.png",
+      "note": "<span style='color:black'>西側の大きい水耕ドーム内部",
+      "x": 562.5,
+      "y": 664
+    },
+    {
+      "id": 1762605188229,
+      "title": "19",
+      "category": "",
+      "image": "https://i.imgur.com/kOehCGz.png",
+      "note": "<span style='color:black'>西側の大きい水耕ドーム内部",
+      "x": 534.25,
+      "y": 690.25
+    },
+    {
+      "id": 1762605227427,
+      "title": "20",
+      "category": "",
+      "image": "https://i.imgur.com/QclPkzW.png",
+      "note": "<span style='color:black'>東側の大きい水耕ドーム内部<br><b><span style='color:black'>付近に<span style='color:blue'>銃弾ケース<span style='color:black'>出る可能性あり",
+      "x": 659,
+      "y": 679.25
+    },
+    {
+      "id": 1762605270013,
+      "title": "21",
+      "category": "",
+      "image": "https://i.imgur.com/X9bS8Am.png",
+      "note": "<span style='color:black'>赤い池の風化した建物内部<br><b><span style='color:black'>付近に<span style='color:blue'>銃弾ケース<span style='color:black'>出る可能性あり",
+      "x": 884.5983874614972,
+      "y": 546.7547297201946
+    },
+    {
+      "id": 1762605309668,
+      "title": "22",
+      "category": "",
+      "image": "https://i.imgur.com/z2sOhQ9.png",
+      "note": "<span style='color:black'>パイプラインタワーの外の青い階段を上った先の端",
+      "x": 782.5983874614972,
+      "y": 668.0047297201946
+    },
+    {
+      "id": 1762605351745,
+      "title": "23",
+      "category": "",
+      "image": "https://i.imgur.com/HFwXmwQ.jpeg",
+      "note": "<span style='color:black'>パイプラインタワー屋上<br><b><span style='color:red'>ジップライン必須",
+      "x": 850.75,
+      "y": 672
+    },
+    {
+      "id": 1762605380892,
+      "title": "24",
+      "category": "",
+      "image": "https://i.imgur.com/Rg5IF1l.png",
+      "note": "<span style='color:black'>パイプラインタワー屋上<br><b><span style='color:red'>ジップライン必須",
+      "x": 848.75,
+      "y": 687.5
+    },
+    {
+      "id": 1762605421871,
+      "title": "25",
+      "category": "",
+      "image": "https://i.imgur.com/RZwZ3Ve.png",
+      "note": "<span style='color:black'>発電総合施設の東端の発電所",
+      "x": 952.75,
+      "y": 757.25
+    },
+    {
+      "id": 1762605488976,
+      "title": "26",
+      "category": "",
+      "image": "https://i.imgur.com/QHXVr9D.gif",
+      "note": "<span style='color:black'>東の崩れた橋の途切れた高速道路の内部<br><b><span style='color:black'>付近に<span style='color:blue'>銃弾ケース<span style='color:black'>,<span style='color:blue'>医療バッグ<span style='color:black'>出る可能性あり",
+      "x": 1038,
+      "y": 736.75
+    }
+  ]
+}
