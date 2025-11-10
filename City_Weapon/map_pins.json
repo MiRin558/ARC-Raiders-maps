@@ -1,0 +1,260 @@
+{
+  "imgW": 836,
+  "imgH": 834,
+  "items": [
+    {
+      "id": 1762752383351,
+      "title": "1",
+      "category": "",
+      "image": "https://i.imgur.com/ti4dS0G.gif",
+      "note": "<span style='color:black'>古い町西部の高速道路付近の建物<br><b><span style='color:red'>窓から侵入する必要あり",
+      "x": 311,
+      "y": 220.5
+    },
+    {
+      "id": 1762752444820,
+      "title": "2",
+      "category": "",
+      "image": "https://i.imgur.com/6yC1ard.jpeg",
+      "note": "<span style='color:black'>グランディオーゾ・アパート南棟屋上の階段上",
+      "x": 221.8125,
+      "y": 260.1875
+    },
+    {
+      "id": 1762752469880,
+      "title": "3",
+      "category": "",
+      "image": "https://i.imgur.com/USaccvo.jpeg",
+      "note": "<span style='color:black'>グランディオーゾ・アパート北棟屋上の階段横の通気口",
+      "x": 232.4375,
+      "y": 295.375
+    },
+    {
+      "id": 1762752576720,
+      "title": "4",
+      "category": "",
+      "image": "https://i.imgur.com/p2ohwWd.jpeg",
+      "note": "<span style='color:black'>放棄された高速道路上にあるトラックの荷台内部",
+      "x": 348,
+      "y": 308
+    },
+    {
+      "id": 1762752588782,
+      "title": "5",
+      "category": "",
+      "image": "https://i.imgur.com/A96kjl1.png",
+      "note": "<span style='color:black'>サンタマリアの家々の西側の建物の3階",
+      "x": 375.5,
+      "y": 283.5
+    },
+    {
+      "id": 1762752603480,
+      "title": "6",
+      "category": "",
+      "image": "https://i.imgur.com/pupks7I.png",
+      "note": "<span style='color:black'>サンタマリアの家々の2階<br><b><span style='color:red'>屋根上から侵入する必要あり",
+      "x": 411.625,
+      "y": 278.125
+    },
+    {
+      "id": 1762752619114,
+      "title": "7",
+      "category": "",
+      "image": "https://i.imgur.com/iiLFenm.png",
+      "note": "<span style='color:black'>サンタマリアの家々の1階の西壁<br><b><span style='color:red'>屋根上から侵入する必要あり",
+      "x": 418.875,
+      "y": 276.125
+    },
+    {
+      "id": 1762777834115,
+      "title": "8",
+      "category": "",
+      "image": "https://i.imgur.com/gr2mbHr.png",
+      "note": "<span style='color:black'>サンタマリアの家々の1階の白い柱付近<br><b><span style='color:red'>屋根上から侵入する必要あり",
+      "x": 425,
+      "y": 275
+    },
+    {
+      "id": 1762752640591,
+      "title": "9",
+      "category": "",
+      "image": "https://i.imgur.com/NZEmnYc.png",
+      "note": "<span style='color:black'>サンタマリアの家々の南東にある風化した噴水内",
+      "x": 449.5,
+      "y": 255
+    },
+    {
+      "id": 1762752660285,
+      "title": "10",
+      "category": "",
+      "image": "https://i.imgur.com/OuyKkCL.png",
+      "note": "<span style='color:black'>サンタマリアの家々の東側の建物3階の階段付近",
+      "x": 450.5,
+      "y": 289
+    },
+    {
+      "id": 1762752690866,
+      "title": "11",
+      "category": "",
+      "image": "https://i.imgur.com/bJI4Zwx.jpeg",
+      "note": "<span style='color:black'>レッドタワーの屋上バルコニー",
+      "x": 508.25,
+      "y": 241.125
+    },
+    {
+      "id": 1762752705088,
+      "title": "12",
+      "category": "",
+      "image": "https://i.imgur.com/OJbwjwB.png",
+      "note": "<span style='color:black'>レッドタワーの屋上バルコニー付近の壊れた壁から入って左奥の階段付近",
+      "x": 500.75,
+      "y": 241.875
+    },
+    {
+      "id": 1762752732759,
+      "title": "13",
+      "category": "",
+      "image": "https://i.imgur.com/DUEX6Vu.png",
+      "note": "<span style='color:black'>古い町東部の薬局の向かい側の建物3階階段付近",
+      "x": 559.75,
+      "y": 288.25
+    },
+    {
+      "id": 1762752749183,
+      "title": "14",
+      "category": "",
+      "image": "https://i.imgur.com/KI2WSM7.jpeg",
+      "note": "<span style='color:black'>古い町東部の赤い見張り台の内部",
+      "x": 617.5,
+      "y": 265.75
+    },
+    {
+      "id": 1762753310902,
+      "title": "15",
+      "category": "",
+      "image": "https://i.imgur.com/Mf09wuw.png",
+      "note": "<span style='color:black'>コルソ・ダ・ヴィンチの北西の建物4階のキッチン台上<br><b><span style='color:red'>北の建物屋根上から金属板の渡しが続いている階",
+      "x": 365.25,
+      "y": 346.75
+    },
+    {
+      "id": 1762753352190,
+      "title": "16",
+      "category": "",
+      "image": "https://i.imgur.com/RHevpLq.png",
+      "note": "<span style='color:black'>ピアッツァ・ローマ南東部の建物2階のたくさんのゴミ袋付近",
+      "x": 349,
+      "y": 377.25
+    },
+    {
+      "id": 1762753372606,
+      "title": "17",
+      "category": "",
+      "image": "https://i.imgur.com/7VdsjSp.png",
+      "note": "<span style='color:black'>16番の東側の建物の屋根裏",
+      "x": 368.25,
+      "y": 386.75
+    },
+    {
+      "id": 1762753397105,
+      "title": "18",
+      "category": "",
+      "image": "https://i.imgur.com/dkHqF2o.gif",
+      "note": "<span style='color:black'>ピアッツァ・ローマ南西部のマンション北棟3階ホワイトボードの下<br><b><span style='color:black'>南棟3階<span style='color:red'>(ゲーム内の階段横に書いてある階数)<span style='color:black'>から飛び移る必要あり<br><b><span style='color:black'>付近に<span style='color:blue'>銃弾ケース<span style='color:black'>出る可能性あり",
+      "x": 289.75,
+      "y": 385.25
+    },
+    {
+      "id": 1762753422199,
+      "title": "19",
+      "category": "",
+      "image": "https://i.imgur.com/2TvtKzs.gif",
+      "note": "<span style='color:black'>ピアッツァ・ローマ南西部のマンション北棟3階左奥のドア前<br><b><span style='color:black'>南棟3階<span style='color:red'>(ゲーム内の階段横に書いてある階数)<span style='color:black'>から飛び移る必要あり<br><b><span style='color:black'>付近に<span style='color:blue'>銃弾ケース<span style='color:black'>出る可能性あり",
+      "x": 282.75,
+      "y": 389.25
+    },
+    {
+      "id": 1762753480643,
+      "title": "20",
+      "category": "",
+      "image": "https://i.imgur.com/RmjPU1R.jpeg",
+      "note": "<span style='color:black'>図書館西側のベンチ横",
+      "x": 304.75,
+      "y": 512
+    },
+    {
+      "id": 1762753497861,
+      "title": "21",
+      "category": "",
+      "image": "https://i.imgur.com/HHoJxyN.png",
+      "note": "<span style='color:black'>駐車ガレージ地下の砂に埋もれた車の屋根上",
+      "x": 476,
+      "y": 527.5
+    },
+    {
+      "id": 1762753509236,
+      "title": "22",
+      "category": "",
+      "image": "https://i.imgur.com/2loNwyW.png",
+      "note": "<span style='color:black'>駐車ガレージ地下の赤いパレットの上",
+      "x": 468.5,
+      "y": 523.75
+    },
+    {
+      "id": 1762753557384,
+      "title": "23",
+      "category": "",
+      "image": "https://i.imgur.com/Q4BngVG.jpeg",
+      "note": "<span style='color:black'>ガレリア屋上にあるシンボル塔上<br><b><span style='color:red'>ジップライン必須",
+      "x": 510.5,
+      "y": 560.5
+    },
+    {
+      "id": 1762753595784,
+      "title": "24",
+      "category": "",
+      "image": "https://i.imgur.com/Ai3KeKO.gif",
+      "note": "<span style='color:black'>病院屋上の小屋内部<br><b><span style='color:red'>ジップライン必須",
+      "x": 426.5,
+      "y": 603
+    },
+    {
+      "id": 1762753616984,
+      "title": "25",
+      "category": "",
+      "image": "https://i.imgur.com/NVEck8z.png",
+      "note": "<span style='color:black'>図書館北西にある道路上の放棄されたバスの後部座席上",
+      "x": 311.75,
+      "y": 609.125
+    },
+    {
+      "id": 1762753630402,
+      "title": "26",
+      "category": "",
+      "image": "https://i.imgur.com/bNWctVc.jpeg",
+      "note": "<span style='color:black'>マラノ駅ホームの北側にある倉庫内<br><b><span style='color:black'>付近に<span style='color:blue'>グレネードバッグ<span style='color:black'>確定出現",
+      "x": 254,
+      "y": 576.5
+    },
+    {
+      "id": 1762752480138,
+      "title": "key1",
+      "category": "",
+      "image": "",
+      "note": "<span style='color:black'><b>※鍵部屋のため画像はありませんがネット上の画像をもとに位置を紹介します<br><span style='color:black'>部屋内のピアノ横<br><b><span style='color:red'>埋もれた町の居住区マスターキー必須",
+      "x": 249,
+      "y": 292,
+      "color": "red"
+    },
+    {
+      "id": 1762752529619,
+      "title": "key2",
+      "category": "",
+      "image": "",
+      "note": "<span style='color:black'><b>※鍵部屋のため画像はありませんがネット上の画像をもとに位置を紹介します<br><span style='color:black'>ドア付近にある倒れたソファー横<br><b><span style='color:red'>埋もれた町の居住区マスターキー必須",
+      "x": 250.25,
+      "y": 309,
+      "color": "red"
+    }
+  ]
+}
