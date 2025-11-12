@@ -1,0 +1,218 @@
+{
+  "imgW": 1293,
+  "imgH": 851,
+  "items": [
+    {
+      "id": 1762840707619,
+      "title": "1",
+      "category": "",
+      "image": "https://i.imgur.com/sFp91Dm.png",
+      "note": "<span style='color:black'>従業員駐車場北東部の荒廃した検問所内部",
+      "x": 736.5,
+      "y": 137.5
+    },
+    {
+      "id": 1762840731658,
+      "title": "2",
+      "category": "",
+      "image": "https://i.imgur.com/dT5ZWCT.jpeg",
+      "note": "<span style='color:black'>従業員駐車場北部の見張り台内部の机の下",
+      "x": 671.75,
+      "y": 156
+    },
+    {
+      "id": 1762840772392,
+      "title": "3",
+      "category": "",
+      "image": "https://i.imgur.com/PV2hhMt.jpeg",
+      "note": "<span style='color:black'>燃料保管庫東部の赤い給水タンク裏",
+      "x": 443,
+      "y": 131.25
+    },
+    {
+      "id": 1762840802475,
+      "title": "4",
+      "category": "",
+      "image": "https://i.imgur.com/FVO42qu.jpeg",
+      "note": "<span style='color:black'>自動車整備室2階の部屋のソファー上",
+      "x": 614.5,
+      "y": 257.5
+    },
+    {
+      "id": 1762840877644,
+      "title": "5",
+      "category": "",
+      "image": "https://i.imgur.com/CWLANT2.png",
+      "note": "<span style='color:black'>燃料ライン東部の見張り台内部の通信機器の下<br><b><span style='color:black'>付近に<span style='color:blue'>銃弾ケース<span style='color:black'>出る可能性あり",
+      "x": 456,
+      "y": 345
+    },
+    {
+      "id": 1762840896517,
+      "title": "6",
+      "category": "",
+      "image": "https://i.imgur.com/ypaqEoR.png",
+      "note": "<span style='color:black'>燃料ラインの縦向きになっているパイプ内部",
+      "x": 391,
+      "y": 352
+    },
+    {
+      "id": 1762880872190,
+      "title": "7",
+      "category": "",
+      "image": "https://i.imgur.com/o1ge8Au.png",
+      "note": "<span style='color:black'>発射塔南部の地下通路の赤いパレットの上<br><b><span style='color:black'>付近に<span style='color:blue'>銃弾ケース<span style='color:black'>,<span style='color:blue'>医療バッグ<span style='color:black'>,<span style='color:blue'>レイダーバッグ<span style='color:black'>出る可能性あり",
+      "x": 568.5,
+      "y": 426
+    },
+    {
+      "id": 1762840937815,
+      "title": "8",
+      "category": "",
+      "image": "https://i.imgur.com/CsDR162.png",
+      "note": "<span style='color:black'>ロケット組み立て場の南部のパイプ上<br><b><span style='color:red'>ロケット組み立て場の屋上から行く必要あり",
+      "x": 812,
+      "y": 495
+    },
+    {
+      "id": 1762840984074,
+      "title": "9",
+      "category": "",
+      "image": "https://i.imgur.com/IQ7FRNp.png",
+      "note": "<span style='color:black'>発射塔の西棟管制室の右奥",
+      "x": 560.75,
+      "y": 563.25
+    },
+    {
+      "id": 1762841027093,
+      "title": "10",
+      "category": "",
+      "image": "https://i.imgur.com/f2Rdsrb.jpeg",
+      "note": "<span style='color:black'>発射塔の東棟屋上<br><b><span style='color:black'>付近に<span style='color:blue'>銃弾ケース<span style='color:black'>出る可能性あり",
+      "x": 580.375,
+      "y": 550.5
+    },
+    {
+      "id": 1762841052561,
+      "title": "11",
+      "category": "",
+      "image": "https://i.imgur.com/m6iYAsp.jpeg",
+      "note": "<span style='color:black'>発射塔南西部の地下通路の机の上",
+      "x": 466,
+      "y": 507
+    },
+    {
+      "id": 1762841080091,
+      "title": "12",
+      "category": "",
+      "image": "https://i.imgur.com/8uHDLiX.jpeg",
+      "note": "<span style='color:black'>出発塔3階の北東中心部付近の机の上",
+      "x": 438.5,
+      "y": 506.5
+    },
+    {
+      "id": 1762841091993,
+      "title": "13",
+      "category": "",
+      "image": "https://i.imgur.com/G5C40DQ.png",
+      "note": "<span style='color:black'>出発塔1階の南西シャワー室の奥<br><b><span style='color:black'>付近に<span style='color:blue'>銃弾ケース<span style='color:black'>出る可能性あり",
+      "x": 373,
+      "y": 506
+    },
+    {
+      "id": 1762841107350,
+      "title": "14",
+      "category": "",
+      "image": "https://i.imgur.com/QqmwSMc.jpeg",
+      "note": "<span style='color:black'>発射塔南部の地下通路の赤いパレットの上<br><b><span style='color:black'>付近に<span style='color:blue'>銃弾ケース<span style='color:black'>,<span style='color:blue'>医療バッグ<span style='color:black'><span style='color:black'>出る可能性あり",
+      "x": 440,
+      "y": 548
+    },
+    {
+      "id": 1762841188548,
+      "title": "15",
+      "category": "",
+      "image": "https://i.imgur.com/iBf8vM4.jpeg",
+      "note": "<span style='color:black'>到着塔南西部の見張り台の机の下",
+      "x": 348.5,
+      "y": 617
+    },
+    {
+      "id": 1762841202422,
+      "title": "16",
+      "category": "",
+      "image": "https://i.imgur.com/8Ie0qc1.png",
+      "note": "<span style='color:black'>到着塔2階の南の部屋の机の上",
+      "x": 406.25,
+      "y": 643.75
+    },
+    {
+      "id": 1762841227553,
+      "title": "17",
+      "category": "",
+      "image": "https://i.imgur.com/HyNmA8e.png",
+      "note": "<span style='color:black'>到着塔東部の黄色い建物内の隅<br><b><span style='color:black'>到着塔内部と繋がっています",
+      "x": 379.5,
+      "y": 680
+    },
+    {
+      "id": 1762841241159,
+      "title": "18",
+      "category": "",
+      "image": "https://i.imgur.com/w0NyxIV.jpeg",
+      "note": "<span style='color:black'>到着塔屋上の北部<br><b><span style='color:black'>付近に<span style='color:blue'>銃弾ケース<span style='color:black'>,<span style='color:blue'>医療バッグ<span style='color:black'>出る可能性あり",
+      "x": 412.25,
+      "y": 684.75
+    },
+    {
+      "id": 1762840821368,
+      "title": "key1",
+      "category": "",
+      "image": "https://i.imgur.com/nsgrOBZ.jpeg",
+      "note": "<span style='color:black'>コンテナ保管庫内部の鍵部屋の中<br><b><span style='color:red'>宇宙港コンテナ保管庫の鍵必須<br><b><span style='color:black'>付近に<span style='color:blue'>グレネードバッグ<span style='color:black'>出る可能性あり",
+      "x": 755.5,
+      "y": 327.5,
+      "color": "red"
+    },
+    {
+      "id": 1762840846029,
+      "title": "key2",
+      "category": "",
+      "image": "https://i.imgur.com/8X7hJqx.png",
+      "note": "<span style='color:black'>管制室塔A6内部の鍵部屋の中<br><b><span style='color:red'>宇宙港管制塔の鍵必須",
+      "x": 581,
+      "y": 345.5,
+      "color": "red"
+    },
+    {
+      "id": 1762841262180,
+      "title": "key3",
+      "category": "",
+      "image": "",
+      "note": "<span style='color:black'><b>※鍵部屋のため画像はありません<br><b><span style='color:black'>画像も確認出来ていないので出現するかは不明ですが発見報告はあるそうです<br><b><span style='color:red'>宇宙港の倉庫の鍵必須",
+      "x": 492,
+      "y": 786,
+      "color": "red"
+    },
+    {
+      "id": 1762841270410,
+      "title": "key4",
+      "category": "",
+      "image": "",
+      "note": "<span style='color:black'><b>※鍵部屋のため画像はありません<br><b><span style='color:black'>画像も確認出来ていないので出現するかは不明ですが<span style='color:red'>北トレンチタワー<span style='color:black'>での発見報告はあるそうです<br><b><span style='color:red'>宇宙港のトレンチタワーの鍵必須",
+      "x": 674,
+      "y": 773.5,
+      "color": "red"
+    },
+    {
+      "id": 1762841000703,
+      "title": "event1",
+      "category": "",
+      "image": "",
+      "note": "<span style='color:black'><b>※イベント期間中のみ出現するため画像はありません<br><b><span style='color:black'>画像も確認出来ていないので出現するかは不明ですが発見報告はあるそうです<br><b><span style='color:red'>宇宙港の発射塔の戦利品イベント中のみ出現",
+      "x": 575.625,
+      "y": 546.625,
+      "color": "green"
+    }
+  ]
+}
